@@ -88,3 +88,7 @@ project2_yolo_detection/
 ├── requirements.txt
 └── README.md
 ```
+## 🎥 Demo
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/XQrj2eV3bTA)
+
+> Detect objects in any image using YOLOv8 + OpenCV. Returns bounding boxes, labels and confidence scores.
